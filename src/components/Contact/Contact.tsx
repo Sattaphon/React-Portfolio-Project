@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import styles from './Contact.module.css'
 import { FaPhone, FaEnvelope } from 'react-icons/fa6'
 
@@ -34,7 +34,7 @@ export default function Contact() {
                         <label htmlFor="email">Email Address</label>
                         <input type="email" id="email" placeholder='eg. jonedoe@email.com'/>
                         <label htmlFor="message">Your Message</label>
-                        <textarea name="message" id="message" cols="30" rows="10" placeholder='Your Message'></textarea>
+                        <textarea name="message" id="message" cols={30} rows={10} placeholder='Your Message'></textarea>
                         <button type="submit">Submit</button>
                     </form>
                 </div>
