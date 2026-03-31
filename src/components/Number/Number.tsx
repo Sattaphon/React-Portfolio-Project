@@ -8,14 +8,14 @@ export default function Number() {
         <div className={styles.number_con}>
             <div className={styles.number_items}>
                 <h3>
-                    <VisibilitySensor partialVisibility offset={{ bottom: 200 }}>
+                    {/* <VisibilitySensor partialVisibility offset={{ bottom: 200 }}>
                         {(isVisible: boolean ) => (
                             <div>
                                 {isVisible ? <CountUp start={0} end={10} duration={5} /> : 0}+
                             </div>
                         )}
-                    </VisibilitySensor>
-                    {/* 20+ */}
+                    </VisibilitySensor> */}
+                    20+
                 </h3>
                 <p>Projects Completed</p>
             </div>

@@ -1,3 +1,4 @@
+// import React from 'react'
 import styles from './Skills.module.css'
 import { FaHtml5, FaCss3Alt, FaJs, FaReact, FaNodeJs  } from 'react-icons/fa6'
 import { TbBrandCSharp } from "react-icons/tb";
