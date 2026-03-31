@@ -1,7 +1,7 @@
-import React from 'react'
+// import React from 'react'
 import styles from './Number.module.css'
-import CountUp from 'react-countup'
-import VisibilitySensor from 'react-visibility-sensor'
+// import CountUp from 'react-countup'
+// import VisibilitySensor from 'react-visibility-sensor'
 
 export default function Number() {
     return (

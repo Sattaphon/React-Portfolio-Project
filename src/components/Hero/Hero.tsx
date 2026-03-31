@@ -1,4 +1,3 @@
-import React from "react";
 import styles from './Hero.module.css'
 import { FaGithub, FaLinkedinIn, FaFacebookF } from 'react-icons/fa6'
 import { TypeAnimation } from "react-type-animation";
